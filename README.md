@@ -4,20 +4,20 @@ An AI-powered mock interview platform that helps users practice technical and HR
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 JWT Authentication System
-- 🤖 AI-generated Interview Questions
-- 🎤 Voice-based Interview Interaction
-- 🧠 AI Answer Evaluation
-- 📊 Real-time Feedback & Scoring
-- 👨‍💻 Role & Skill-based Interview Setup
-- 🌐 Full-stack Web Application
-- 📱 Responsive User Interface
+- JWT Authentication System
+- AI-generated Interview Questions
+- Voice-based Interview Interaction
+- AI Answer Evaluation
+- Real-time Feedback & Scoring
+- Role & Skill-based Interview Setup
+- Full-stack Web Application
+- Responsive User Interface
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -39,7 +39,7 @@ An AI-powered mock interview platform that helps users practice technical and HR
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 PREPAI01/
@@ -63,9 +63,9 @@ PREPAI01/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/SurajRoshan1122/ai-interview-preparation-platform.git
@@ -77,7 +77,7 @@ cd ai-interview-preparation-platform
 
 ---
 
-# 🔧 Backend Setup
+# Backend Setup
 
 Move to backend folder:
 
@@ -123,7 +123,7 @@ python app.py
 
 ---
 
-# 💻 Frontend Setup
+# Frontend Setup
 
 Open another terminal:
 
@@ -145,7 +145,7 @@ npm run dev
 
 ---
 
-## 🌍 Environment Variables
+## Environment Variables
 
 ### Backend `.env`
 
@@ -157,7 +157,7 @@ MONGO_URI=
 
 ---
 
-## 🔄 Application Workflow
+## Application Workflow
 
 1. User registers/login
 2. User selects role and skills
@@ -168,7 +168,7 @@ MONGO_URI=
 
 ---
 
-## 🧠 AI Features
+## AI Features
 
 - Dynamic Question Generation
 - AI-based Answer Verification
@@ -178,7 +178,7 @@ MONGO_URI=
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 - JWT Authentication
 - Protected Routes
@@ -187,7 +187,7 @@ MONGO_URI=
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Login Page
 
@@ -219,7 +219,7 @@ MONGO_URI=
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Resume Parsing
 - Interview History Tracking
@@ -231,7 +231,7 @@ MONGO_URI=
 
 ---
 
-## ☁️ Deployment Options
+## Deployment Options
 
 ### Frontend
 - Vercel
@@ -247,7 +247,7 @@ MONGO_URI=
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Suraj Roshan Sahoo
 
@@ -255,6 +255,6 @@ MONGO_URI=
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational and portfolio purposes.
